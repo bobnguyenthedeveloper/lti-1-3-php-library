@@ -1,6 +1,9 @@
 # About this library
 It has been forked from the original lti-1-3-php-library from imsglobal, with the customization to work with Moodle. Check out the original repository here: https://github.com/1EdTech/lti-1-3-php-library.
 
+# Example project
+Check out this link for the example: https://github.com/bobnguyenthedeveloper/lti-provider
+
 # LTI 1.3 Advantage Library
 This code consists of a library for creating LTI tool providers in PHP.
 
