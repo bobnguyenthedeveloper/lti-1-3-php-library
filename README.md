@@ -1,6 +1,5 @@
-
-| **Note** : If you are looking for the example tool that uses this library, it has been moved into its own repo https://github.com/IMSGlobal/lti-1-3-php-example-tool |
-| --- |
+# About this library
+It has been forked from the original lti-1-3-php-library from imsglobal, with the customization to work with Moodle. Check out the original repository here: https://github.com/1EdTech/lti-1-3-php-library.
 
 # LTI 1.3 Advantage Library
 This code consists of a library for creating LTI tool providers in PHP.
@@ -14,11 +13,11 @@ Add the following to your `composer.json` file
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/IMSGlobal/lti-1-3-php-library"
+        "url": "https://github.com/bobnguyenthedeveloper/lti-1-3-php-library"
     }
 ],
 "require": {
-    "imsglobal/lti-1p3-tool": "dev-master"
+    "bobngthedeveloper/lti-1p3-tool": "dev-master"
 }
 ```
 Run `composer install` or `composer update`
