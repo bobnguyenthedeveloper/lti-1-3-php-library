@@ -272,16 +272,3 @@ $ags->put_grade($grade, $lineitem);
 ```
 
 If a lineitem with the same `tag` exists, that lineitem will be used, otherwise a new lineitem will be created.
-
-
-# Contributing
-If you have improvements, suggestions or bug fixes, feel free to make a pull request or issue and someone will take a look at it.
-
-You do not need to be an IMS Member to use or contribute to this library, however it is recommended for better access to support resources and certification.
-
-This library was initially created by @MartinLenord from Turnitin to help prove out the LTI 1.3 specification and accelerate tool development.
-
-**Note:** This library is for IMS LTI 1.3 based specifications only. Requests to include custom, off-spec or vendor-specific changes will be declined.
-
-## Don't like PHP?
-If you don't like PHP and have a favorite language that you would like to make a library for, we'd love to hear about it!
